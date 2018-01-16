@@ -1,1 +1,1 @@
-first file in a branch
+first file in a branch. Changes made in first branch.
