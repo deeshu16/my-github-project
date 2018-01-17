@@ -1,1 +1,1 @@
-first file in a branch. Changes made in first branch.
+first file in a branch. Changes made in first branch. To check multiple conflicts
