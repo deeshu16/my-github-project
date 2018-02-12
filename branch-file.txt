@@ -1,3 +1,4 @@
 first file in a branch. Changes made in first branch.
 This is to check the build script
 Test revert option  - first commit
+Test revert option - second commit
