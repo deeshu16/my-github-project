@@ -1,3 +1,2 @@
 first file in a branch. Changes made in first branch.
 This is to check the build script
-Testing git amend
